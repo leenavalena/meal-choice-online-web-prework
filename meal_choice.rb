@@ -1,2 +1,3 @@
-# Define a method meal_choice that returns the meal_choice that was
-# passed into it and defaults to meat.
+def meal_choice("Jerk chicken")
+  puts "I would like a #{meal_choice} today"
+end
