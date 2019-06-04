@@ -1,3 +1,3 @@
-def meal_choice
-  puts "I would like a #{jerk chicken} today"
+def meal_choice("jerk chicken")
+  puts "I would like a #{meal_choice} today"
 end
